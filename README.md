@@ -1,1 +1,1 @@
-# snap-add-on
+# snap-add-on-test
